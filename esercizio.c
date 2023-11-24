@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
     int lower = 0;
     int upper = 300;
